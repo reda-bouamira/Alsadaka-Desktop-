@@ -1,0 +1,44 @@
+.my-content{
+  background-color: #F4F4F4; 
+}
+
+.my-slideshow{
+  /*used to control the picture's effect.*/
+  background-color: #2e3a56; 
+}
+
+.carousel-item img {
+  background-color: black;
+  opacity: 0.8;
+}
+
+.my-schedule-table-heading{
+  font-size: calc(12px + 1vw)
+}
+
+/*.pattern{
+  background-image: url("../img/pattern.jpg");
+  background-repeat: repeat-y;
+  background-size: cover;
+  height: 10px;
+}*/
+
+.my-schedule-table {
+  font-size: calc(8px + 0.5vw);
+  border-top: 1px solid red;
+  font-family: 'Vollkorn', serif;
+}
+
+.my-schedule-table td{ 
+  min-width: 100px; /*used to allow the scroll feature when the screen width changes.*/
+}
+
+.blue-color{
+  color: #2980B9;
+  font-size: 1.1em;
+}
+
+.red-color{
+  color:  #B22222;
+  font-size: 1.1em;
+}

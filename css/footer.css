@@ -1,0 +1,27 @@
+footer {
+  background-color: #121A2E;
+  color: #D7DAE1;
+  font-size: calc(7px + 0.5vw);
+}
+
+  b{
+    color: #8B9AA9;
+    margin-right: 5px; 
+    font-size: 1.05em;
+    font-family: 'Archivo Black', sans-serif;
+  }
+
+  .my-bottom-footer{
+    background-color: #030609 /*#2e3a56*/;
+    opacity: .9;
+    color: grey;
+    height: 30px;
+  }
+
+footer .my-sponsor .row{
+  max-height: 100px;
+}
+
+.my-main-sponsor{
+  min-width: 50px;
+}

@@ -1,0 +1,19 @@
+.my-top-header{
+  background-color: #2e3a56;
+}
+
+  .social-icons{
+    list-style: none;
+  }
+
+  .my-header-message{
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 10px;
+    opacity: 0.6;
+    color: #9aabbc;
+  }
+
+.my-head-nav{
+  font-size: calc(10px + 0.7vw);
+  background-color: #E6EBED;
+}
